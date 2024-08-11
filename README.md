@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasleen Kaur</h1>
-<h3 align="center">I'm currently diving deep into Data Structures and Algorithms (DSA) with C++, and I'm eager to expand my knowledge in full stack web development. I have a growing interest in building dynamic and responsive web applications, and I'm enthusiastic about learning more about both the front-end and back-end technologies.</h3>
+<h3 align="center">I'm currently diving deep into Data Structures and Algorithms (DSA) with C++, and I'm eager to expand my knowledge in full stack web development. I'm enthusiastic about learning more about both the front-end and back-end technologies.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasleenkaur1801" alt="jasleenkaur1801" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jasskaur4m@gmail.com**
 
-- ⚡ Fun fact **"I have a ritual of drinking a cup of coffee while coding. It helps me get into the zone!**
+- ⚡ Fun fact **"I have a ritual of drinking a cup of coffee while coding. It helps me get into the zone!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
